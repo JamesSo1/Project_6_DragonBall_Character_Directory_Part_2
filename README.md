@@ -28,12 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fc510e9cdb9b4629bb8e372f728390f7-with-play.gif">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
-
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fc510e9cdb9b4629bb8e372f728390f7-with-play.gif">
 
 ## Notes
 
