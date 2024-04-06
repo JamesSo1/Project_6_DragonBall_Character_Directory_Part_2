@@ -35,7 +35,7 @@ GIF created with Loom
 
 ## Notes
 
-The main challenge with building this app was figuring out how to create a unique route for each character entry in the database. Another challenge was learning to use ReCharts since I have never used it before.
+The main challenge with building this app was figuring out how to create a unique route for each character entry in the database using dynamic routing. Another challenge was learning to use ReCharts since I have never used it before.
 
 ## License
 
